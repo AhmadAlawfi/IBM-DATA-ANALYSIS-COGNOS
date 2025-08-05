@@ -31,7 +31,7 @@ The dashboard is divided into three key sections:
 ## 📎 Dashboard Export
 
 📄 Click to view the exported dashboard as PDF:  
-👉 [Download Dashboard (PDF)](Cognos Analytics.pdf)
+👉 [Download Dashboard (PDF)](./Cognos Analytics.pdf)
 
 ## 📂 Dataset
 
