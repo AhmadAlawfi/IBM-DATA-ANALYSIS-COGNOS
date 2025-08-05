@@ -31,7 +31,7 @@ The dashboard is divided into three key sections:
 ## 📎 Dashboard Export
 
 📎 Click the link below to view or download the full exported dashboard as a PDF:  
-👉 [Dashboard Export (PDF)](./Cognos-Analytics.pdf)
+👉 [Dashboard Export (PDF)](https://github.com/AhmadAlawfi/IBM-DATA-ANALYSIS-COGNOS/blob/main/Cognos%20Analytics.pdf)
 
 ## 📂 Dataset
 
